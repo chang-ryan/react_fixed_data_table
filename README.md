@@ -4,6 +4,10 @@
 
 > Using React, you need to create a Frontend App that will display data coming from 2 separate APIs. Ad Objects API and Ads Metrics API. The data will be structured in EXCEL like format as a table with cells. The first column of the table will be locked and not scrollable to the left or right. The rest will be scrollable and can scroll under the first one. The table area must have a min-width of 500px.
 
+### Docs
+
+The app can be started by running `npm install` and then `npm build`. I ran the React app on a webpack-dev-server.
+
 ### Discussion
 
 This app uses React and Redux to build a table that receives data from two APIs.
